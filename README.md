@@ -35,7 +35,7 @@ IF(
 ⬇️ Скачать https://drive.google.com/uc?export=download&id=1-hblj8DoGEu4ge61gmA-SNHVQlW3qk1T
 
 
-📌 Автор
+## 📌 Автор
 Пышкина Виктория
 📱 Телеграм: @victoria_pyshkina
 📅 30 июля 2025
