@@ -32,7 +32,8 @@ IF(
     )
 )
 💻 Открыть в Power BI Desktop
-⬇️ Скачать .pbix-файл
+⬇️ Скачать https://drive.google.com/uc?export=download&id=1-hblj8DoGEu4ge61gmA-SNHVQlW3qk1T
+
 
 📌 Автор
 Пышкина Виктория
