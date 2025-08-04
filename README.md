@@ -33,9 +33,9 @@ IF(
 )
 
 ##💻 Как открыть проект
-⬇️ Скачать https://drive.google.com/uc?export=download&id=1-hblj8DoGEu4ge61gmA-SNHVQlW3qk1T
+https://drive.google.com/uc?export=download&id=1-hblj8DoGEu4ge61gmA-SNHVQlW3qk1T
 
-Открыть в Power BI Desktop
+в Power BI Desktop
 '''
   
 			// 1. Общее количество кликов
