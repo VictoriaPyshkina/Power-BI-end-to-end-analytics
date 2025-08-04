@@ -33,7 +33,7 @@ IF(
 )
 
 ##💻 Как открыть проект
-⬇️ Скачать .pbix-файл
+⬇️ Скачать https://drive.google.com/uc?export=download&id=1-hblj8DoGEu4ge61gmA-SNHVQlW3qk1T
 
 Открыть в Power BI Desktop
 '''
