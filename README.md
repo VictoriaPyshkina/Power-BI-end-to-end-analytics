@@ -14,6 +14,9 @@
 - Отчёты в Power BI
 - Выводы и рекомендации
 
+##💻 Как открыть проект
+https://drive.google.com/uc?export=download&id=1-hblj8DoGEu4ge61gmA-SNHVQlW3qk1T
+
 ## ⚙️ Ключевые DAX-метрики
 ```dax
 // 1. Общее количество кликов
@@ -32,12 +35,6 @@ IF(
     )
 )
 
-##💻 Как открыть проект
-https://drive.google.com/uc?export=download&id=1-hblj8DoGEu4ge61gmA-SNHVQlW3qk1T
-
-в Power BI Desktop
-'''
-  
 
 '''
   
